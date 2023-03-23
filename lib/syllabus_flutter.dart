@@ -91,7 +91,7 @@ class _SyllabusState extends State<Syllabus> {
                     children: [
                       ListTile(
                         leading: CircleAvatar(radius: 30),
-                        title: Text("Raman"),
+                        title: Text("Ramanraman"),
                         trailing: Icon(Icons.phone),
                       ),
                       ListTile(
