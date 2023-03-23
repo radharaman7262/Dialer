@@ -111,7 +111,7 @@ class _SyllabusState extends State<Syllabus> {
                             child: Text("R"),
                           ),
                         ),
-                        title: Text("Raman"),
+                        title: Text("Raman lukman"),
                         trailing: Icon(Icons.phone),
                       ),
                       ListTile(
