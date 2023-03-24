@@ -100,7 +100,7 @@ class _SyllabusState extends State<Syllabus> {
                           backgroundImage: NetworkImage(
                               "https://img.freepik.com/free-vector/botanical-capital-letter-r-vector_53876-127456.jpg?w=2000"),
                         ),
-                        title: Text("Raman"),
+                        title: Text("Raman radhe"),
                         trailing: Icon(Icons.phone),
                       ),
                       ListTile(
